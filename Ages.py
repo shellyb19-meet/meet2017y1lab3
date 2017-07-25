@@ -1,0 +1,5 @@
+print("How old are you?")
+x = int(input())
+print("And how age are you?")
+y = int(input())
+print("The sum of are ages is " + str(x + y))
